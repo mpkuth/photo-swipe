@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photo Swipe</string>
+    <string name="image_deleted">Image Deleted</string>
+    <string name="share_photo">Share Photo</string>
+    <string name="undo">Undo</string>
+</resources>
